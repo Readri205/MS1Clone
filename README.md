@@ -1,7 +1,7 @@
 Milestone Project 1
 
 
-[View the live project here.](https://readri205.github.io/my-first-milestone-project/)
+[View the live project here.](https://readri205.github.io/MS1Clone/)
 
 ![Image of AmiResponsive](https://github.com/Readri205/my-first-milestone-project/blob/master/assets/images/amiresponsive.png)
 
@@ -507,3 +507,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V15.9 Amend active tag for home and tours page.
 Submission to MS1 Up to This Point
 -   #### V16.0 Update for EmailJS js code
+-   #### V16.1 Update README for correct site url
